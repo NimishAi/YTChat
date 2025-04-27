@@ -103,5 +103,3 @@ This script creates a chatbot that:
 
 ---
 
-## Example Configuration Snippet
-
